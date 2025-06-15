@@ -41,12 +41,6 @@ This dashboard offers insights into player attributes, positions, ratings, and m
 
 ---
 
-## 📈 Dashboard Preview
-
-> *(Add screenshots of your dashboard here to showcase visuals)*
-
----
-
 ## 🎯 Use Cases
 
 - FIFA 22 player scouting and comparison.
@@ -75,7 +69,3 @@ This project is licensed under the MIT License.
 Free to use and modify for learning and personal projects.
 
 ---
-
-## 👏 Acknowledgements
-
-- [F]()
